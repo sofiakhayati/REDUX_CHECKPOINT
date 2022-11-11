@@ -1,0 +1,16 @@
+.todofilter{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin-left: 15%;
+    
+}
+.todofilter label{
+    font-family: cursive;
+    font-weight: bold;
+    font-size: larger;
+    color: white;
+}
+.todofilter input{
+width: 50px;
+}
